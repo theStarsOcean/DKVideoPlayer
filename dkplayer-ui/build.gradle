@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply from: '../constants.gradle'
 
-apply plugin: 'com.github.dcendents.android-maven'
+//apply plugin: 'com.github.dcendents.android-maven'
 
 android {
     compileSdkVersion project.ext.compileSdkVersion
